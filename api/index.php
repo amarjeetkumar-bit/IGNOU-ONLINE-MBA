@@ -447,6 +447,15 @@
             <div class="hero-copy reveal">
                 <h1>IGNOU Online MBA 2026</h1>
 
+                
+                <p class="naac">University Certified by NAAC with A++ Grade</p>
+
+                <div class="hero-cta">
+                    <a class="btn btn-gold" href="#counselling">Download Brochure&nbsp;&#8595;</a>
+                    <a class="btn btn-indigo" href="#counselling">Get Free counselling&nbsp;&#8594;</a>
+                </div>
+
+                <p class="scholarship-text">Get Upto ₹10,000 Scholarship Benefit</p>
                 <div class="course-pills">
                     <span class="pill">MBA</span>
                     <span class="pill">MCA</span>
@@ -456,15 +465,6 @@
                     <span class="pill">B.Sc</span>
                     <span class="pill">B.Com</span>
                 </div>
-
-                <p class="naac">University Certified by NAAC with A++ Grade</p>
-
-                <div class="hero-cta">
-                    <a class="btn btn-gold" href="#counselling">Download Brochure&nbsp;&#8595;</a>
-                    <a class="btn btn-indigo" href="#counselling">Get Free counselling&nbsp;&#8594;</a>
-                </div>
-
-                <p class="scholarship-text">Get Upto ₹10,000 Scholarship Benefit</p>
                 <p class="closing">Admissions closing soon!</p>
 
                 <div class="countdown" aria-label="Time left to apply">
