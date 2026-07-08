@@ -456,15 +456,7 @@
                 </div>
 
                 <p class="scholarship-text">Get Upto ₹10,000 Scholarship Benefit</p>
-                <div class="course-pills">
-                    <span class="pill">MBA</span>
-                    <span class="pill">MCA</span>
-                    <span class="pill">MA</span>
-                    <span class="pill">BBA</span>
-                    <span class="pill">BCA</span>
-                    <span class="pill">B.Sc</span>
-                    <span class="pill">B.Com</span>
-                </div>
+            
                 <p class="closing">Admissions closing soon!</p>
 
                 <div class="countdown" aria-label="Time left to apply">
